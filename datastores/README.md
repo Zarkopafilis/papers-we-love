@@ -48,7 +48,7 @@
 
 * :scroll: [Database Metatheory: Asking Big Queries](database-metatheory--asking-the-big-queries.pdf)
 
-* :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](dynamo-amazons-highly-available-key-value-store.pdf)
+--- :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](dynamo-amazons-highly-available-key-value-store.pdf)
 
 * :scroll: [Flat Datacenter Storage](flat-datacenter-storage.pdf)
 
